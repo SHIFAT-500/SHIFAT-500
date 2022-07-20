@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHIFAT-500
-- 👀 I’m interested in learning new thins
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shifathossain870@gmail.com
